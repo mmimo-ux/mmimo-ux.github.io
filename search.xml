@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>我用hexo搭建博客啦</title>
-    <url>/2020/10/22/myfirst/</url>
-    <content><![CDATA[<h1 id="我的第一篇博文"><a href="#我的第一篇博文" class="headerlink" title="我的第一篇博文"></a>我的第一篇博文</h1><p>开始搞了就停不下来了</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-  </entry>
-  <entry>
     <title>站点目前存在的bug和待完善的地方</title>
     <url>/2020/10/22/bugnotes/</url>
     <content><![CDATA[<h3 id="一-bug"><a href="#一-bug" class="headerlink" title="一 bug"></a>一 bug</h3><ol>
@@ -25,6 +16,15 @@
 <li>背景</li>
 <li>关于</li>
 </ol>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我用hexo搭建博客啦</title>
+    <url>/2020/10/22/myfirst/</url>
+    <content><![CDATA[<h1 id="我的第一篇博文"><a href="#我的第一篇博文" class="headerlink" title="我的第一篇博文"></a>我的第一篇博文</h1><p>开始搞了就停不下来了</p>
 ]]></content>
       <categories>
         <category>日常</category>
