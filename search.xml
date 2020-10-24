@@ -3,9 +3,7 @@
   <entry>
     <title>站点目前存在的bug和待完善的地方</title>
     <url>/2020/10/22/bugnotes/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="一-bug"><a href="#一-bug" class="headerlink" title="一 bug"></a>一 bug</h3><ol>
-<li>文章的浏览量是错误的</li>
-<li>网站最上方有个白条</li>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="一-bug"><a href="#一-bug" class="headerlink" title="一 bug"></a>一 bug</h3><ol start="3">
 <li>微聊那里必须先刷新一下才能看到里面的内容</li>
 </ol>
 <h3 id="二-待完善的地方"><a href="#二-待完善的地方" class="headerlink" title="二 待完善的地方"></a>二 待完善的地方</h3><ol>
